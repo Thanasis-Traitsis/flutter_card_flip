@@ -116,7 +116,7 @@ class _CardContainerState extends State<CardContainer> {
 }
 
 ```
-<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/basic_logic.png?raw=true" alt="Basic Logic" width="300" height="auto">
+<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/basic_logic.png?raw=true" alt="Basic Logic" width="600" height="auto">
 
 ## Flip Animation
 

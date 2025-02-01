@@ -195,7 +195,7 @@ We have access to this value by importing the `dart:math`
 import 'dart:math' show pi;
 ```
 
-<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/circle_board.png?raw=true" alt="Board Image" width="600" height="auto">
+<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/circle_board.png?raw=true" alt="Board Image" width="auto" height="300">
 
 Perfect, now all that's left, is updating our UI, so we can apply this amazing animation.
 

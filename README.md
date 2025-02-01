@@ -117,6 +117,8 @@ class _CardContainerState extends State<CardContainer> {
 
 ```
 
+![BASIC LOGIC](https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/basic_logic.png?raw=true)
+
 ## Flip Animation
 
 Enough with the boring part, don't you think? Now that we’ve established the basic logic for toggling between the front and back sides of our card, let’s take things to the next level by adding a smooth flip animation. Rather than instantly switching between the two card faces, we’ll implement a visually engaging transition that mimics the natural motion of a card flipping through space. 

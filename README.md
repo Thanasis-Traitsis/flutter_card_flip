@@ -195,7 +195,7 @@ We have access to this value by importing the `dart:math`
 import 'dart:math' show pi;
 ```
 
-<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/circle_board.png?raw=true" alt="Board Image" width="auto" height="300">
+<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/circle_board.png?raw=true" alt="Board Image" width="auto" height="400">
 
 Perfect, now all that's left, is updating our UI, so we can apply this amazing animation.
 
@@ -244,7 +244,7 @@ I know that the `Transform` widget, might look a bit confusing to you, so let's 
 
 The image below, can help you visualize everything we discussed above:
 
-[[ ROTATION IMAGE ]]
+<img src="https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/flip_card.png?raw=true" alt="Rotation Image" width="auto" height="400">
 
 ### Completing the animation - Switching to BackCard
 

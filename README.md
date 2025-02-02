@@ -148,7 +148,7 @@ late AnimationController _cardFlipController;
   }
 ```
 
-At this point, you might see an error on your screen because of the `this` keyword in the `vsync` parameter. If your editor seems confused, don’t worry—this is a common issue. Essentially, your program is saying, *"Okay, what the f...k is this?"*
+At this point, you might see an error on your screen because of the `this` keyword in the `vsync` parameter. If your editor seems confused, don’t worry, this is a common issue. Essentially, your program is saying, *"Okay, what the f...k is this?"*
 
 Relax, dear editor. We can fix this pretty easily by adding a mixin to our class:
 

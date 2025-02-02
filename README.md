@@ -1,6 +1,6 @@
 # Flutter Flip Card Animation
 ![Header](https://github.com/Thanasis-Traitsis/flutter_card_flip/blob/main/assets/Flutter%20Flip%20Card%20Animation.png?raw=true)
-Welcome fellow Flutter developers! Today, we’re diving into something really exciting: building a flip card animation from scratch. You know those satisfying card-flip effects you see in card board-games and bank applications? We'll create that using nothing but Flutter's built-in animation tools – no external packages needed. And don't worry, this is not an ordinary "copy-paste the code" article. We'll break down the animation principles that make this effect work, giving you the knowledge to create not just this flip animation, but any custom animation your app needs. Ready to upgrade your Flutter apps? Let's start by answering a question that I think you are all wondering.
+Welcome fellow Flutter developers! Today, we’re diving into something really exciting: building a flip card animation from scratch. You know those satisfying card-flip effects you see in card board-games and bank applications? We'll create that using nothing but Flutter's built-in animation tools. No external packages needed! And don't worry, this is not an ordinary "copy-paste the code" article. We'll break down the animation principles that make this effect work, giving you the knowledge to create not just this flip animation, but any custom animation your app needs. Ready to upgrade your Flutter apps? Let's start by answering a question that I think you are all wondering.
 
 ### Why No Packages?
 
